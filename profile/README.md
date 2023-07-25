@@ -3,7 +3,7 @@ Owner: https://github.com/PTOM76
 <br />
 Wiki: https://wikichree.com/pitan76/
 <br />
-Maven: https://maven.pkom.ml/
+Maven: https://maven.pitan76.net/
 <br />
 Discord: https://discord.gg/KrYFxKawQc
 <br />
