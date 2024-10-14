@@ -1,6 +1,6 @@
 # Pitan76
 <p align="right">Star Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<img align="right" src="https://github-pitan76-star-counter.glitch.me/?user=Pitan76&w=400&date=20241012" />
+<img align="right" src="https://github-pitan76-star-counter.glitch.me/?user=Pitan76&h=240&date=20241012" />
 
 Owner: https://github.com/PTOM76
 <br />
